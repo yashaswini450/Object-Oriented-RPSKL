@@ -6,15 +6,10 @@ It demonstrates key OOP concepts such as classes, inheritance, polymorphism, and
 Features
 
 Supports Rock–Paper–Scissors rules.
-
 Player hierarchy with base and derived classes (Player, KoreanPlayer).
-
 Game hierarchy (Game, KoreanGame) to showcase inheritance.
-
 Polymorphism for handling different player/game types.
-
 Modular structure with .h and .cpp files.
-
 Makefile for easy compilation.
 
 📂 Project Structure
@@ -34,35 +29,24 @@ Makefile for easy compilation.
 
 
 player.h / player.cpp → Base Player class (with derived KoreanPlayer).
-
 game.h / game.cpp → Base Game class (with derived KoreanGame).
-
 rpskl.h / rpskl.cpp → Core logic for RPSK moves and rules.
-
 main.cpp → Entry point to run the game.
-
 Makefile → Automates compilation and builds the executable.
 
 ⚙️ Build & Run
 
 Clone this repository:
 
-git clone https://github.com/your-username/Object-Oriented-RPSKL.git
+git clone https://github.com/yashaswini450/Object-Oriented-RPSKL.git
 cd Object-Oriented-RPSKL
 
 
-Compile using the Makefile:
-
-make
-
+Compile using the Makefile:  make
 
 This generates an executable (e.g., rpskl).
 
-Run the game:
-
-./rpskl
+Run the game:  ./rpskl
 
 
-To clean build files:
-
-make clean
+To clean build files:  make clean

@@ -1,0 +1,107 @@
+
+========================================
+        WELCOME 
+========================================
+Enter which game to play:
+0. Vanilla
+1. Minus One
+Enter choice:0
+Enter game: match
+Register Player1:ahana
+Register Player2:pradhan
+... verifying registration... OK
+Play with:l 65 p 10
+... ahana own!
+... double checking... OK
+Congratulations!
+
+========================================
+        WELCOME 
+========================================
+Enter which game to play:
+0. Vanilla
+1. Minus One
+Enter choice:0
+Enter game: test
+Register Player1:a
+Register Player2:a
+... verifying registration... OK
+Play with:p 12 p 12
+... its a tie!
+... double checking ... NOK
+Play with:r 23 r 23
+... its a tie!
+... double checking ... NOK
+Play with:r 23 p 12
+... a own!
+... double checking... OK
+Congratulations!
+
+========================================
+        WELCOME 
+========================================
+Enter which game to play:
+0. Vanilla
+1. Minus One
+Enter choice:1
+Enter game: test
+Register Player1:p1
+Register Player2:p2
+... verifying registration... OK
+Play with:r 23 r 23 p 23 p 23 l r
+... p2 own!
+... double checking... OK
+Congratulations!
+
+========================================
+        WELCOME 
+========================================
+Enter which game to play:
+0. Vanilla
+1. Minus One
+Enter choice:1
+Enter game: check_10
+Register Player1:a
+Register Player2:b
+... verifying registration... OK
+Play with:r 10 p 20 s 30 k 40 l r
+... b own!
+... double checking... OK
+Congratulations!
+
+========================================
+        WELCOME 
+========================================
+Enter which game to play:
+0. Vanilla
+1. Minus One
+Enter choice:1
+Enter game: test
+Register Player1:a
+Register Player2:b
+... verifying registration... OK
+Play with:k 100 l 23 p 10 r 5 l r
+... a own!
+... double checking... OK
+Congratulations!
+
+========================================
+        WELCOME 
+========================================
+Enter which game to play:
+0. Vanilla
+1. Minus One
+Enter choice:1
+Enter game: test
+Register Player1:a
+Register Player2:b
+... verifying registration... OK
+Play with:r 1 r 1 r 1 r 1 l l
+... its a tie!
+... double checking ... NOK
+Play with:k 100 k 10 k 20 k 30 l r
+... b own!
+... double checking... OK
+Congratulations!
+
+
